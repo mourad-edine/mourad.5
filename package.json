@@ -1,0 +1,14 @@
+{
+  "name": "mourad5",
+  "version": "1.0.0",
+  "description": "le vrai projet",
+  "main": "index.js",
+  "scripts": {
+    "dev": " npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "mourad",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
