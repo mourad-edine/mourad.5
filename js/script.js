@@ -1,4 +1,4 @@
-var li_elements = document.querySelectorAll(".wrapper_left ul li");
+var li_elements = document.querySelectorAll(".wrapper ul li");
 
 for(var i = 0;i < li_elements.length; i++){
     li_elements[i].addEventListener("click", function(){
